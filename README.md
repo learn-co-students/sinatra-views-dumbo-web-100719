@@ -23,7 +23,7 @@ end
 ``` 
 
 Run `shotgun` and go to [http://localhost:9393](http://localhost:9393) or the IP Address:PORT provided by the Learn IDE. Your "Hello World" text should now appear as an `<h1>`. Nice!
-
+sho
 ### Part 2: Using an ERB File
 
 You can imagine that writing HTML this way would get very messy, very quickly. Luckily, most web frameworks include a templating engine that allows us to render HTML content from a different file. We call these files "views." Views represent what the user sees and comprise the "V" in "MVC."
